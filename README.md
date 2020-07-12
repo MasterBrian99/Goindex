@@ -16,7 +16,9 @@
 
 6.Deploy the code to Cloudflare Workers
 
-
+### Credits
+* Source: [LeeluPradhan/G-Index](https://github.com/LeeluPradhan/G-Index)
+* Source: [Aicirou](https://github.com/Aicirou/goindex-theme-acrou)
 
 ### License
 ---
