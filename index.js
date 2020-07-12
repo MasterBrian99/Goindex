@@ -22,11 +22,6 @@ var authConfig = {
      */
     roots: [
       {
-        id: "0ALCV5UYTRheMUk9PVA",
-        name: "TeamDrive",
-        pass: "",
-      },
-      {
         id: "root",
         name: "PrivateDrive",
         user: "",
